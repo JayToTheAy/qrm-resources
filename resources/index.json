@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-07-08T04:38:15.155625+00:00",
+    "last_updated": "2026-07-08T07:33:38.186738+00:00",
     "resources": {
         "bandcharts": {
             "v1": [
                 {
                     "filename": "bandcharts.1.json",
-                    "hash": "ffd137a84e044e30475f956afc6b5e1c"
+                    "hash": "0d2c878a0dc556ec5f1802b166ef18ca"
                 }
             ]
         },
@@ -29,7 +29,7 @@
             "v1": [
                 {
                     "filename": "radios.1.json",
-                    "hash": "351556a23793f266b02fe73891b420c2"
+                    "hash": "f5260b3bddf7773d5790b87757c172bc"
                 }
             ]
         },
