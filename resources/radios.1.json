@@ -990,7 +990,7 @@
     ],
     "ft100": [
       "FT-100",
-      "https://www.rigpix.com/yaesu/ft100.htm"
+      "https://www.rigpix.com/yaesu/ft100older.htm"
     ],
     "ft100d": [
       "FT-100D",
@@ -1026,7 +1026,7 @@
     ],
     "ft101zd": [
       "FT-101ZD",
-      "https://www.rigpix.com/yaesu/ft101zdmk3.htm"
+      "https://www.rigpix.com/yaesu/ft101zd.htm"
     ],
     "ft102": [
       "FT-102",
@@ -1271,6 +1271,78 @@
     "ys500": [
       "YS-500",
       "https://www.rigpix.com/rfmeasure/yaesu_ys500.htm"
+    ],
+    "frdx400": [
+      "FRDX-400",
+      "https://www.rigpix.com/yaesu/frdx400.htm"
+    ],
+    "fldx400": [
+      "FLDX-400",
+      "https://www.rigpix.com/yaesu/fldx400.htm"
+    ],
+    "ftdx10": [
+      "FTDX-10",
+      "https://www.rigpix.com/yaesu/ftdx10.htm"
+    ],
+    "ftdx100": [
+      "FTDX-100",
+      "https://www.rigpix.com/yaesu/ftdx100.htm"
+    ],
+    "ftdx101d": [
+      "FTDX-101D",
+      "https://www.rigpix.com/yaesu/ftdx101d.htm"
+    ],
+    "ftdx101mp": [
+      "FTDX-101MP",
+      "https://www.rigpix.com/yaesu/ftdx101mp.htm"
+    ],
+    "ftdx400": [
+      "FTDX-400",
+      "https://www.rigpix.com/yaesu/ftdx400.htm"
+    ],
+    "ftdx401": [
+      "FTDX-401",
+      "https://www.rigpix.com/yaesu/ftdx401.htm"
+    ],
+    "ftdx560": [
+      "FTDX-560",
+      "https://www.rigpix.com/yaesu/ftdx560.htm"
+    ],
+    "ftdx570": [
+      "FTDX-570",
+      "https://www.rigpix.com/yaesu/ftdx570.htm"
+    ],
+    "ftdx1200": [
+      "FTDX-1200",
+      "https://www.rigpix.com/yaesu/ftdx1200.htm"
+    ],
+    "ftdx3000": [
+      "FTDX-3000",
+      "https://www.rigpix.com/yaesu/ftdx3000.htm"
+    ],
+    "ftdx5000": [
+      "FTDX-5000",
+      "https://www.rigpix.com/yaesu/ftdx5000.htm"
+    ],
+    "ftdx5000d": [
+      "FTDX-5000D",
+      "https://www.rigpix.com/yaesu/ftdx5000d.htm"
+    ],
+    "ftdx5000mp": [
+      "FTDX-5000MP",
+      "https://www.rigpix.com/yaesu/ftdx5000mp.htm"
+    ],
+    "ftdx9000contest": [
+      "FTDX-9000 Contest",
+      "https://www.rigpix.com/yaesu/ftdx9000contest.htm"
+    ],
+    "ftdx9000d": [
+      "FTDX-9000D",
+      "https://www.rigpix.com/yaesu/ftdx9000d.htm"
+    ],
+    "ftdx9000mp": [
+      "FTDX-9000MP",
+      "https://www.rigpix.com/yaesu/ftdx9000mp.htm"
     ]
   },
   "icom": {
@@ -2592,7 +2664,7 @@
     ],
     "ic2730a": [
       "IC-2730A",
-      "https://www.rigpix.com/icom/ic2730abe.htm"
+      "https://www.rigpix.com/icom/ic2730a.htm"
     ],
     "ic2730d": [
       "IC-2730D",
@@ -2600,7 +2672,7 @@
     ],
     "ic2730e": [
       "IC-2730E",
-      "https://www.rigpix.com/icom/ic2730ebe.htm"
+      "https://www.rigpix.com/icom/ic2730e.htm"
     ],
     "ic2800h": [
       "IC-2800H",
@@ -3197,6 +3269,66 @@
     "x026": [
       "X-026",
       "https://www.rigpix.com/icom/x026.htm"
+    ],
+    "icalpha6": [
+      "IC-Alpha 6",
+      "https://www.rigpix.com/icom/icalpha6.htm"
+    ],
+    "icalpha6a": [
+      "IC-Alpha 6A",
+      "https://www.rigpix.com/icom/icalpha6a.htm"
+    ],
+    "icalpha6e": [
+      "IC-Alpha 6E",
+      "https://www.rigpix.com/icom/icalpha6e.htm"
+    ],
+    "icdelta1a": [
+      "IC-Delta 1A",
+      "https://www.rigpix.com/icom/icdelta1a.htm"
+    ],
+    "icdelta1e": [
+      "IC-Delta 1E",
+      "https://www.rigpix.com/icom/icdelta1e.htm"
+    ],
+    "icm2a": [
+      "IC-µ2A",
+      "https://www.rigpix.com/icom/icmikro2a.htm"
+    ],
+    "icm2at": [
+      "IC-µ2AT",
+      "https://www.rigpix.com/icom/icmikro2a.htm"
+    ],
+    "icm2e": [
+      "IC-µ2E",
+      "https://www.rigpix.com/icom/icmikro2e.htm"
+    ],
+    "icm4a": [
+      "IC-µ4A",
+      "https://www.rigpix.com/icom/icmikro4a.htm"
+    ],
+    "icm4at": [
+      "IC-µ4AT",
+      "https://www.rigpix.com/icom/icmikro4at.htm"
+    ],
+    "icm4e": [
+      "IC-µ4E",
+      "https://www.rigpix.com/icom/icmikro4e.htm"
+    ],
+    "icdelta100": [
+      "IC-Delta 100",
+      "https://www.rigpix.com/icom/icdelta100.htm"
+    ],
+    "icdelta100d": [
+      "IC-Delta 100D",
+      "https://www.rigpix.com/icom/icdelta100d.htm"
+    ],
+    "icdelta100h": [
+      "IC-Delta 100H",
+      "https://www.rigpix.com/icom/icdelta100h.htm"
+    ],
+    "icdelta100m": [
+      "IC-Delta 100M",
+      "https://www.rigpix.com/icom/icdelta100m.htm"
     ]
   },
   "kenwood": {
