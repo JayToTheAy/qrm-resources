@@ -1251,6 +1251,26 @@
     "ftx1optima": [
       "FTX-1 Optima",
       "https://www.rigpix.com/yaesu/ftx1optima.htm"
+    ],
+    "yc221": [
+      "YC-221",
+      "https://www.rigpix.com/rfmeasure/yaesu_yc221.htm"
+    ],
+    "yc500j": [
+      "YC-500J",
+      "https://www.rigpix.com/rfmeasure/yaesu_yc500j.htm"
+    ],
+    "yo301": [
+      "YO-301",
+      "https://www.rigpix.com/rfmeasure/yaesu_yo301.htm"
+    ],
+    "ys60": [
+      "YS-60",
+      "https://www.rigpix.com/rfmeasure/yaesu_ys60.htm"
+    ],
+    "ys500": [
+      "YS-500",
+      "https://www.rigpix.com/rfmeasure/yaesu_ys500.htm"
     ]
   },
   "icom": {
@@ -4531,6 +4551,22 @@
     "tsb2000": [
       "TS-B2000",
       "https://www.rigpix.com/kenwood/tsb2000.htm"
+    ],
+    "dg5": [
+      "DG-5",
+      "https://www.rigpix.com/rfmeasure/kenwood_dg5.htm"
+    ],
+    "sm220": [
+      "SM-220",
+      "https://www.rigpix.com/rfmeasure/kenwood_sm220.htm"
+    ],
+    "sm230": [
+      "SM-230",
+      "https://www.rigpix.com/rfmeasure/kenwood_sm230.htm"
+    ],
+    "sw200": [
+      "SW-200",
+      "https://www.rigpix.com/rfmeasure/kenwood_sw200.htm"
     ]
   },
   "baofeng": {
@@ -4719,6 +4755,10 @@
     "kx3": [
       "KX3",
       "https://www.rigpix.com/elecraft/elecraft_kx3.htm"
+    ],
+    "w2": [
+      "W2",
+      "https://www.rigpix.com/rfmeasure/elecraft_w2.htm"
     ]
   },
   "flex": {
@@ -5637,6 +5677,642 @@
     "x6200": [
       "X6200",
       "https://www.rigpix.com/xiegu/x6200.htm"
+    ]
+  },
+  "aec": {
+    "swr50": [
+      "SWR-50",
+      "https://www.rigpix.com/rfmeasure/aec_swr50.htm"
+    ],
+    "swr50a": [
+      "SWR-50A",
+      "https://www.rigpix.com/rfmeasure/aec_swr50a.htm"
+    ]
+  },
+  "bird": {
+    "43": [
+      "43",
+      "https://www.rigpix.com/rfmeasure/bird_43.htm"
+    ],
+    "4304a": [
+      "4304A",
+      "https://www.rigpix.com/rfmeasure/bird_4304a.htm"
+    ],
+    "4431": [
+      "4431",
+      "https://www.rigpix.com/rfmeasure/bird_4431.htm"
+    ]
+  },
+  "crescomm": {
+    "600": [
+      "600",
+      "https://www.rigpix.com/rfmeasure/crescomm_600.htm"
+    ]
+  },
+  "daiwa": {
+    "cn101l": [
+      "CN-101L",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn101l.htm"
+    ],
+    "cn102l": [
+      "CN-102L",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn102l.htm"
+    ],
+    "cn103": [
+      "CN-103",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn103.htm"
+    ],
+    "cn103l": [
+      "CN-103L",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn103l.htm"
+    ],
+    "cn410m": [
+      "CN-410M",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn410m.htm"
+    ],
+    "cn412m": [
+      "CN-412M",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn412m.htm"
+    ],
+    "cn460m": [
+      "CN-460M",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn460m.htm"
+    ],
+    "cn465m": [
+      "CN-465M",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn465m.htm"
+    ],
+    "cn490m": [
+      "CN-490M",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn490m.htm"
+    ],
+    "cn495m": [
+      "CN-495M",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn495m.htm"
+    ],
+    "cn501h": [
+      "CN-501H",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn501h.htm"
+    ],
+    "cn501h2": [
+      "CN-501H2",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn501h2.htm"
+    ],
+    "cn501v": [
+      "CN-501V",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn501v.htm"
+    ],
+    "cn620a": [
+      "CN-620A",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn620a.htm"
+    ],
+    "cn630": [
+      "CN-630",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn630.htm"
+    ],
+    "cn650": [
+      "CN-650",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn650.htm"
+    ],
+    "cn720b": [
+      "CN-720B",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn720b.htm"
+    ],
+    "cn801g": [
+      "CN-801G",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801g.htm"
+    ],
+    "cn801gii": [
+      "CN-801G II",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801gii.htm"
+    ],
+    "cn801gf": [
+      "CN-801GF",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801gf.htm"
+    ],
+    "cn801hp": [
+      "CN-801HP",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801hp.htm"
+    ],
+    "cn801hp3": [
+      "CN-801HP3",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801hp3.htm"
+    ],
+    "cn801sii": [
+      "CN-801S II",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801sii.htm"
+    ],
+    "cn801v": [
+      "CN-801V",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn801v.htm"
+    ],
+    "cn901hp": [
+      "CN-901HP",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn901hp.htm"
+    ],
+    "cn901hp3": [
+      "CN-901HP3",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn901hp3.htm"
+    ],
+    "cn901v": [
+      "CN-901V",
+      "https://www.rigpix.com/rfmeasure/daiwa_cn901v.htm"
+    ],
+    "ns448u": [
+      "NS-448U",
+      "https://www.rigpix.com/rfmeasure/daiwa_ns448u.htm"
+    ],
+    "sw110a": [
+      "SW-110A",
+      "https://www.rigpix.com/rfmeasure/daiwa_sw110a.htm"
+    ]
+  },
+  "diamond": {
+    "sx20c": [
+      "SX-20C",
+      "https://www.rigpix.com/rfmeasure/diamond_sx20c.htm"
+    ],
+    "sx40c": [
+      "SX-40C",
+      "https://www.rigpix.com/rfmeasure/diamond_sx40c.htm"
+    ],
+    "sx100": [
+      "SX-100",
+      "https://www.rigpix.com/rfmeasure/diamond_sx100.htm"
+    ],
+    "sx200": [
+      "SX-200",
+      "https://www.rigpix.com/rfmeasure/diamond_sx200.htm"
+    ],
+    "sx240c": [
+      "SX-240C",
+      "https://www.rigpix.com/rfmeasure/diamond_sx240c.htm"
+    ],
+    "sx400": [
+      "SX-400",
+      "https://www.rigpix.com/rfmeasure/diamond_sx400.htm"
+    ],
+    "sx600": [
+      "SX-600",
+      "https://www.rigpix.com/rfmeasure/diamond_sx600.htm"
+    ],
+    "sx1100": [
+      "SX-1100",
+      "https://www.rigpix.com/rfmeasure/diamond_sx1100.htm"
+    ]
+  },
+  "dsi": {
+    "3550": [
+      "3550",
+      "https://www.rigpix.com/rfmeasure/dsi_3550.htm"
+    ]
+  },
+  "handic": {
+    "fs117": [
+      "FS-117",
+      "https://www.rigpix.com/rfmeasure/handic_fs117.htm"
+    ],
+    "sp1": [
+      "SP-1",
+      "https://www.rigpix.com/rfmeasure/handic_sp1_461307.htm"
+    ],
+    "swr": [
+      "SWR",
+      "https://www.rigpix.com/rfmeasure/handic_swr_461314.htm"
+    ]
+  },
+  "hansen": {
+    "fs9b": [
+      "FS-9B",
+      "https://www.rigpix.com/rfmeasure/hansen_fs9b.htm"
+    ],
+    "fs117": [
+      "FS-117",
+      "https://www.rigpix.com/rfmeasure/hansen_fs117.htm"
+    ]
+  },
+  "hi": {
+    "sinadder3": [
+      "Sinadder 3",
+      "https://www.rigpix.com/rfmeasure/helperinstruments_sinadder3.htm"
+    ]
+  },
+  "hp": {
+    "esal1500a": [
+      "ESA-L1500A",
+      "https://www.rigpix.com/rfmeasure/hp_esal1500a.htm"
+    ],
+    "hp427a": [
+      "HP-427A",
+      "https://www.rigpix.com/rfmeasure/hp_427a.htm"
+    ],
+    "hp8656a": [
+      "HP 8656A",
+      "https://www.rigpix.com/rfmeasure/hp_8656a.htm"
+    ],
+    "hp8656b": [
+      "HP 8656B",
+      "https://www.rigpix.com/rfmeasure/hp_8656b.htm"
+    ],
+    "hp8657a": [
+      "HP 8657A",
+      "https://www.rigpix.com/rfmeasure/hp_8657a.htm"
+    ],
+    "hp8657b": [
+      "HP 8657B",
+      "https://www.rigpix.com/rfmeasure/hp_8657b.htm"
+    ],
+    "hp8657d": [
+      "HP 8657D",
+      "https://www.rigpix.com/rfmeasure/hp_8657d.htm"
+    ],
+    "hp8662a": [
+      "HP 8662A",
+      "https://www.rigpix.com/rfmeasure/hp_8662a.htm"
+    ],
+    "hp8901a": [
+      "HP 8901A",
+      "https://www.rigpix.com/rfmeasure/hp_8901a.htm"
+    ]
+  },
+  "immersionrc": {
+    "rfpowermeterv1": [
+      "RF Power meter v1",
+      "https://www.rigpix.com/rfmeasure/immersionrc_rfpowermeterv1.htm"
+    ],
+    "rfpowermeterv2": [
+      "RF Power meter v2",
+      "https://www.rigpix.com/rfmeasure/immersionrc_rfpowermeterv2.htm"
+    ]
+  },
+  "interphone": {
+    "i77": [
+      "I-77",
+      "https://www.rigpix.com/rfmeasure/interphone_i77.htm"
+    ]
+  },
+  "iwatsu": {
+    "sc7201": [
+      "SC-7201",
+      "https://www.rigpix.com/rfmeasure/iwatsu_sc7201.htm"
+    ],
+    "sc7207h": [
+      "SC-7207H",
+      "https://www.rigpix.com/rfmeasure/iwatsu_sc7207h.htm"
+    ]
+  },
+  "maas": {
+    "rs200": [
+      "RS-200",
+      "https://www.rigpix.com/rfmeasure/maas_rs200.htm"
+    ],
+    "rs400": [
+      "RS-400",
+      "https://www.rigpix.com/rfmeasure/maas_rs400.htm"
+    ],
+    "rs600": [
+      "RS-600",
+      "https://www.rigpix.com/rfmeasure/maas_rs600.htm"
+    ],
+    "rs1000": [
+      "RS-1000",
+      "https://www.rigpix.com/rfmeasure/maas_rs1000.htm"
+    ]
+  },
+  "marconi": {
+    "2018": [
+      "2018",
+      "https://www.rigpix.com/rfmeasure/marconi_2018.htm"
+    ],
+    "2018a": [
+      "2018A",
+      "https://www.rigpix.com/rfmeasure/marconi_2018a.htm"
+    ],
+    "2019": [
+      "2019",
+      "https://www.rigpix.com/rfmeasure/marconi_2019.htm"
+    ],
+    "2019a": [
+      "2019A",
+      "https://www.rigpix.com/rfmeasure/marconi_2019a.htm"
+    ],
+    "2023": [
+      "2023",
+      "https://www.rigpix.com/rfmeasure/marconi_2023.htm"
+    ],
+    "2024": [
+      "2024",
+      "https://www.rigpix.com/rfmeasure/marconi_2024.htm"
+    ],
+    "2030": [
+      "2030",
+      "https://www.rigpix.com/rfmeasure/marconi_2030.htm"
+    ],
+    "2031": [
+      "2031",
+      "https://www.rigpix.com/rfmeasure/marconi_2031.htm"
+    ],
+    "2032": [
+      "2032",
+      "https://www.rigpix.com/rfmeasure/marconi_2032.htm"
+    ]
+  },
+  "mfj": {
+    "mfj207": [
+      "MFJ-207",
+      "https://www.rigpix.com/rfmeasure/mfj_207.htm"
+    ],
+    "mfj219": [
+      "MFJ-219",
+      "https://www.rigpix.com/rfmeasure/mfj_219.htm"
+    ],
+    "mfj219b": [
+      "MFJ-219B",
+      "https://www.rigpix.com/rfmeasure/mfj_219b.htm"
+    ],
+    "mfj225": [
+      "MFJ-225",
+      "https://www.rigpix.com/rfmeasure/mfj_225.htm"
+    ],
+    "mfj259c": [
+      "MFJ-259C",
+      "https://www.rigpix.com/rfmeasure/mfj_259c.htm"
+    ],
+    "mfj269": [
+      "MFJ-269",
+      "https://www.rigpix.com/rfmeasure/mfj_269.htm"
+    ],
+    "mfj269c": [
+      "MFJ-269C",
+      "https://www.rigpix.com/rfmeasure/mfj_269c.htm"
+    ],
+    "mfj269cpro": [
+      "MFJ-269C Pro",
+      "https://www.rigpix.com/rfmeasure/mfj_269cpro.htm"
+    ],
+    "mfj269d": [
+      "MFJ-269D",
+      "https://www.rigpix.com/rfmeasure/mfj_269d.htm"
+    ],
+    "mfj817": [
+      "MFJ-817",
+      "https://www.rigpix.com/rfmeasure/mfj_817.htm"
+    ],
+    "mfj817c": [
+      "MFJ-817C",
+      "https://www.rigpix.com/rfmeasure/mfj_817c.htm"
+    ],
+    "mfj867": [
+      "MFJ-867",
+      "https://www.rigpix.com/rfmeasure/mfj_867.htm"
+    ],
+    "mfj868": [
+      "MFJ-868",
+      "https://www.rigpix.com/rfmeasure/mfj_868.htm"
+    ],
+    "mfj868b": [
+      "MFJ-868B",
+      "https://www.rigpix.com/rfmeasure/mfj_868b.htm"
+    ],
+    "mfj870": [
+      "MFJ-870",
+      "https://www.rigpix.com/rfmeasure/mfj_870.htm"
+    ],
+    "mfj872": [
+      "MFJ-872",
+      "https://www.rigpix.com/rfmeasure/mfj_872.htm"
+    ],
+    "mfj873": [
+      "MFJ-873",
+      "https://www.rigpix.com/rfmeasure/mfj_873.htm"
+    ],
+    "mfj874": [
+      "MFJ-874",
+      "https://www.rigpix.com/rfmeasure/mfj_874.htm"
+    ],
+    "mfj891": [
+      "MFJ-891",
+      "https://www.rigpix.com/rfmeasure/mfj_891.htm"
+    ],
+    "mfj894": [
+      "MFJ-894",
+      "https://www.rigpix.com/rfmeasure/mfj_894.htm"
+    ]
+  },
+  "mizuho": {
+    "dx555": [
+      "DX-555",
+      "https://www.rigpix.com/rfmeasure/mizuho_dx555.htm"
+    ],
+    "dx555d": [
+      "DX-555D",
+      "https://www.rigpix.com/rfmeasure/mizuho_dx555d.htm"
+    ]
+  },
+  "motorola": {
+    "r2001d": [
+      "R2001D",
+      "https://www.rigpix.com/rfmeasure/motorola_r2001d.htm"
+    ]
+  },
+  "nissei": {
+    "rs101": [
+      "RS-101",
+      "https://www.rigpix.com/rfmeasure/nissei_rs101.htm"
+    ],
+    "rs102": [
+      "RS-102",
+      "https://www.rigpix.com/rfmeasure/nissei_rs102.htm"
+    ],
+    "rs402": [
+      "RS-402",
+      "https://www.rigpix.com/rfmeasure/nissei_rs402.htm"
+    ],
+    "rs502": [
+      "RS-502",
+      "https://www.rigpix.com/rfmeasure/nissei_rs502.htm"
+    ],
+    "rx503": [
+      "RX-503",
+      "https://www.rigpix.com/rfmeasure/nissei_rx503.htm"
+    ],
+    "tm3000": [
+      "TM-3000",
+      "https://www.rigpix.com/rfmeasure/nissei_tm3000.htm"
+    ]
+  },
+  "racal": {
+    "1991": [
+      "1991",
+      "https://www.rigpix.com/rfmeasure/racal_1991.htm"
+    ],
+    "1992": [
+      "1992",
+      "https://www.rigpix.com/rfmeasure/racal_1992.htm"
+    ],
+    "1998": [
+      "1998",
+      "https://www.rigpix.com/rfmeasure/racal_1998.htm"
+    ],
+    "1999": [
+      "1999",
+      "https://www.rigpix.com/rfmeasure/racal_1999.htm"
+    ],
+    "9008": [
+      "9008",
+      "https://www.rigpix.com/rfmeasure/racal_9008.htm"
+    ],
+    "9081": [
+      "9081",
+      "https://www.rigpix.com/rfmeasure/racal_9081.htm"
+    ],
+    "9081h": [
+      "9081H",
+      "https://www.rigpix.com/rfmeasure/racal_9081h.htm"
+    ],
+    "9082": [
+      "9082",
+      "https://www.rigpix.com/rfmeasure/racal_9082.htm"
+    ],
+    "9082h": [
+      "9082H",
+      "https://www.rigpix.com/rfmeasure/racal_9082h.htm"
+    ],
+    "9914": [
+      "9914",
+      "https://www.rigpix.com/rfmeasure/racal_9914.htm"
+    ]
+  },
+  "redot": {
+    "1041a": [
+      "1041A",
+      "https://www.rigpix.com/rfmeasure/redot_1041a.htm"
+    ],
+    "1050a": [
+      "1050A",
+      "https://www.rigpix.com/rfmeasure/redot_1050a.htm"
+    ],
+    "2017a": [
+      "2017A",
+      "https://www.rigpix.com/rfmeasure/redot_2017a.htm"
+    ],
+    "5011": [
+      "5011",
+      "https://www.rigpix.com/rfmeasure/redot_5011.htm"
+    ],
+    "rd106p": [
+      "RD-106P",
+      "https://www.rigpix.com/rfmeasure/redot_rd106p.htm"
+    ]
+  },
+  "revex": {
+    "w510": [
+      "W510",
+      "https://www.rigpix.com/rfmeasure/revex_w510.htm"
+    ],
+    "w520": [
+      "W520",
+      "https://www.rigpix.com/rfmeasure/revex_w520.htm"
+    ],
+    "w540": [
+      "W540",
+      "https://www.rigpix.com/rfmeasure/revex_w540.htm"
+    ],
+    "w560": [
+      "W560",
+      "https://www.rigpix.com/rfmeasure/revex_w560.htm"
+    ],
+    "w570": [
+      "W570",
+      "https://www.rigpix.com/rfmeasure/revex_w570.htm"
+    ],
+    "w590": [
+      "W590",
+      "https://www.rigpix.com/rfmeasure/revex_w590.htm"
+    ]
+  },
+  "saga": {
+    "95130": [
+      "95-130",
+      "https://www.rigpix.com/rfmeasure/saga_95130.htm"
+    ],
+    "95137": [
+      "95-137",
+      "https://www.rigpix.com/rfmeasure/saga_95137.htm"
+    ],
+    "130": [
+      "130",
+      "https://www.rigpix.com/rfmeasure/saga_130.htm"
+    ],
+    "137": [
+      "137",
+      "https://www.rigpix.com/rfmeasure/saga_137.htm"
+    ],
+    "175": [
+      "175",
+      "https://www.rigpix.com/rfmeasure/saga_175.htm"
+    ],
+    "520": [
+      "520",
+      "https://www.rigpix.com/rfmeasure/saga_520.htm"
+    ],
+    "fs113b": [
+      "FS-113B",
+      "https://www.rigpix.com/rfmeasure/saga_fs113b.htm"
+    ]
+  },
+  "siglent": {
+    "ssg3021x": [
+      "SSG3021X",
+      "https://www.rigpix.com/rfmeasure/siglent_ssg3021x.htm"
+    ],
+    "ssg3032x": [
+      "SSG3032X",
+      "https://www.rigpix.com/rfmeasure/siglent_ssg3032x.htm"
+    ]
+  },
+  "tektronix": {
+    "rsa306": [
+      "RSA306",
+      "https://www.rigpix.com/rfmeasure/tektronix_rsa306.htm"
+    ]
+  },
+  "toyo": {
+    "t435": [
+      "T-435",
+      "https://www.rigpix.com/rfmeasure/toyo_t435.htm"
+    ]
+  },
+  "tritron": {
+    "ts1003mkii": [
+      "TS-1003 MkII",
+      "https://www.rigpix.com/rfmeasure/tritron_ts1003mkii.htm"
+    ]
+  },
+  "velleman": {
+    "dvm13mfc2": [
+      "DVM13MFC2",
+      "https://www.rigpix.com/rfmeasure/velleman_dvm13mfc2.htm"
+    ]
+  },
+  "zetagi": {
+    "hp201": [
+      "HP-201",
+      "https://www.rigpix.com/rfmeasure/zetagi_hp201.htm"
+    ]
+  },
+  "zodiac": {
+    "swr02": [
+      "SWR-02",
+      "https://www.rigpix.com/rfmeasure/zodiac_swr02.htm"
+    ],
+    "u2": [
+      "U-2",
+      "https://www.rigpix.com/rfmeasure/zodiac_u2.htm"
+    ],
+    "u3": [
+      "U-3",
+      "https://www.rigpix.com/rfmeasure/zodiac_u3.htm"
     ]
   }
 }
