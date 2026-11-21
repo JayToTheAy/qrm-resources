@@ -13,6 +13,8 @@ The version format should be `YYYY.mM.seq`. For example: the *third* version rel
 
 ## [Unreleased]
 ### Added
+- Austria (`at`) band chart.
+- Sweden (`se_hf`, `se_vhf`) band charts.
 - HAARP IRI (`haarp`) band chart.
 - New Zealand (`nz`) band chart.
 - Turkey (`tr`) band chart.
