@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-08-13T01:25:09.673512+00:00",
+    "last_updated": "2026-11-21T01:29:56.711941+00:00",
     "resources": {
         "bandcharts": {
             "v1": [
                 {
                     "filename": "bandcharts.1.json",
-                    "hash": "1a2cbf9bd3039f8e7083d0c1075f1249"
+                    "hash": "958aedb47e8414c8cb7826f4f78bf899"
                 }
             ]
         },
