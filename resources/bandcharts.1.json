@@ -1,4 +1,5 @@
 {
+    "at": ["bandcharts/at.png", "Austria", "Amateur radio bands in Austria", "Does not include the 60m band.", "[Österreichischer Versuchssenderverband (ÖVSV)](https://www.oevsv.at/)  [[PDF]](https://www.oevsv.at/export/shared/.content/.galleries/pdf-Downloads/OVSV-Bandplan_05-2019.pdf)", "🇦🇹"],
     "au": ["bandcharts/au.png", "Australia", "Amateur radio bands in Australia", "", "[Radio Amateur Society of Australia](https://vkradioamateurs.org/its-my-frequency-and-ill-cry-if-i-want-to/)  [[PDF]](https://vkradioamateurs.org/wp-content/uploads/2018/05/VK-Band-Plan-Quick-Reference-1.pdf)", "🇦🇺"],
     "bg": ["bandcharts/bg.png", "Bulgaria", "Amateur radio bands in Bulgaria", "", "Created by LZ2CFW", "🇧🇬"],
     "ca": ["bandcharts/ca-2023.png", "Canada", "Amateur radio bands in Canada", "**This bandplan is incomplete**; some bands, like 630m, are simply not present. It also does not cover any band above 30MHz.", "[RAC 0-30MHz Band Plan](https://www.rac.ca/mivahih/2023/06/RAC_Bandplan_0%E2%80%9330_MHz.pdf)", "🇨🇦"],
@@ -15,6 +16,8 @@
     "nz": ["bandcharts/nz.png", "New Zealand", "Amateur radio bands in New Zealand", "", "[Draft NZ Repeater and Fixed station maps 2026](https://nzart.org.nz/info/maps2026/)", "🇳🇿"],
     "ph": ["bandcharts/ph.png", "The Philippines", "Amateur radio bands in the Philippines", "", "DW5CD [[PDF]](https://github.com/miaowware/qrm-resources/files/7668695/Philippine.Amateur.Band.Plan.2021.pdf)", "🇵🇭"],
     "ru": ["bandcharts/ru.png", "Russia", "Amateur radio bands in Russia (HF Only)", "", "[Amateur Operator's Union of Russia](https://srr.ru/radiooperatoram/radiochastoty/)", "🇷🇺"],
+    "se_hf": ["bandcharts/se_hf.png", "Sweden (HF)", "Amateur radio bands in Sweden (HF Only)", "", "[Sveriges Sändareamatörer (SSA)](https://www.ssa.se/ssa/dokument/bandplaner/)", "🇸🇪"],
+    "se_vhf": ["bandcharts/se_vhf.png", "Sweden (VHF/UHF)", "Amateur radio bands in Sweden (VHF/UHF Only)", "", "[Sveriges Sändareamatörer (SSA)](https://www.ssa.se/ssa/dokument/bandplaner-vhf-shf/)", "🇸🇪"],
     "th": ["bandcharts/th.png", "Thailand", "Amateur radio bands in Thailand", "", "[Radio Amateur Society of Thailand](https://www.qsl.net/rast/text/HF-VHFbandplan.html)", "🇹🇭"],
     "tr": ["bandcharts/tr.png", "Turkey", "Amateur radio bands in Turkey", "", "[Anadolu Kesintisiz İletişim Radyo Amatörleri Derneği](https://www.akrad.org.tr/band-planlari/)", "🇹🇷"],
     "uk_hf": ["bandcharts/uk_hf.png", "United Kingdom (HF)", "Amateur radio bands in the UK (HF Only)", "", "[Online Amateur Radio Community](https://wiki.oarc.uk/_media/reference:uk_ham_bands_chart_-_v0003_-_2_pager.pdf)", "🇬🇧"],

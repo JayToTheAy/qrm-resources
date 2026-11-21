@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-11-21T01:29:56.711941+00:00",
+    "last_updated": "2026-11-21T22:53:06.107741+00:00",
     "resources": {
         "bandcharts": {
             "v1": [
                 {
                     "filename": "bandcharts.1.json",
-                    "hash": "958aedb47e8414c8cb7826f4f78bf899"
+                    "hash": "1d14fa8030d6f39cff980ebae141d0ff"
                 }
             ]
         },
@@ -13,7 +13,7 @@
             "v1": [
                 {
                     "filename": "imgs.1.json",
-                    "hash": "dbbdc6bbcab97df3443d5f474c794c6f"
+                    "hash": "7bf99a13bd707dcfc5f6fda06daa4e87"
                 }
             ]
         },
@@ -21,7 +21,7 @@
             "v1": [
                 {
                     "filename": "maps.1.json",
-                    "hash": "76c0f08c18627748c5403b3cfaad71ae"
+                    "hash": "ebdf4aac6a90f23f5a12bc1db57065bc"
                 }
             ]
         },
@@ -29,7 +29,7 @@
             "v1": [
                 {
                     "filename": "radios.1.json",
-                    "hash": "470c34271db6a2d8a4d36ccaa4f04cac"
+                    "hash": "09a76fc0285aeb99889ade991e1476f5"
                 }
             ]
         },
@@ -37,7 +37,7 @@
             "v1": [
                 {
                     "filename": "morse.1.json",
-                    "hash": "573f0b23b6e332dd64edfdc04aceafe6"
+                    "hash": "1b755d9fc8f2140c08ef625286e95fcd"
                 }
             ]
         },
@@ -45,7 +45,7 @@
             "v1": [
                 {
                     "filename": "phonetics.1.json",
-                    "hash": "78ff6d35d173ae580298b003a2e90c82"
+                    "hash": "ebd8ee4f1b89dafbff6fe115078cf176"
                 }
             ]
         },
@@ -53,7 +53,7 @@
             "v1": [
                 {
                     "filename": "qcodes.1.json",
-                    "hash": "bba799a54e9cf28eacc5dc0a7d9d88cc"
+                    "hash": "f425f427bae77f9165b60c7a6c50e451"
                 }
             ]
         },
@@ -61,7 +61,7 @@
             "v1": [
                 {
                     "filename": "words.1.txt",
-                    "hash": "838e17a0ccb2819b5e1c854db42d2ef6"
+                    "hash": "5da8ab1a3efcd4eca102ac0499b99c7f"
                 }
             ]
         },
@@ -69,7 +69,7 @@
             "v1": [
                 {
                     "filename": "template.1.tex",
-                    "hash": "2fdf5e42e01377b4c7a939e6a35b5251"
+                    "hash": "16b5c7ab6c0a0474fa962247979ef6da"
                 }
             ]
         }
